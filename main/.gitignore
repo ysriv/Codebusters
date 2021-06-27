@@ -1,0 +1,5 @@
+vendor
+composer.*
+.vscode
+resources/php/config.php
+temp.html
