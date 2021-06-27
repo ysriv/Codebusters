@@ -1,6 +1,3 @@
-# V2C (Vision To Code )
-
- Submission for HACK NITR
 
 # Project Name 
 TrashBuddy - Share Trash,Save the Sphere
