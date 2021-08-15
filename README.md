@@ -16,4 +16,5 @@ Our primary goal is "Share Trash,Save the Sphere". So, to achieve our goal we ma
 
 
 # Challenges
-Being novel to these kind of tasks, our team came across various challenges including GUI, implementation of Google Login etc
+Being novel to these kind of tasks, our team came across various challenges including GUI, implementation of Google Login etc.
+It is a work in progress.
